@@ -1,0 +1,78 @@
+{
+    "campaigns": [
+        {
+            "id": "cricket-dhoni-virat",
+            "category": "Cricket",
+            "question": "WHO IS YOUR FAVOURITE?",
+            "title": "MS Dhoni vs Virat Kohli",
+            "subtitle": "Great players. Different styles. One choice.",
+            "a_name": "MS Dhoni",
+            "a_wiki": "MS_Dhoni",
+            "b_name": "Virat Kohli",
+            "b_wiki": "Virat_Kohli",
+            "ends_at": "2026-12-31T23:59:59+05:30",
+            "active": 1
+        },
+        {
+            "id": "football-ronaldo-messi",
+            "category": "Football",
+            "question": "WHO IS YOUR FAVOURITE?",
+            "title": "Cristiano Ronaldo vs Lionel Messi",
+            "subtitle": "Two legends. One choice.",
+            "a_name": "Cristiano Ronaldo",
+            "a_wiki": "Cristiano_Ronaldo",
+            "b_name": "Lionel Messi",
+            "b_wiki": "Lionel_Messi",
+            "ends_at": "2026-12-31T23:59:59+05:30",
+            "active": 1
+        },
+        {
+            "id": "movie-dhurandhar-pathan",
+            "category": "Movie",
+            "question": "WHICH ONE WINS?",
+            "title": "Dhurandhar vs Pathaan",
+            "subtitle": "Big screen. Bigger debate.",
+            "a_name": "Dhurandhar",
+            "a_wiki": "Dhurandhar_(film)",
+            "b_name": "Pathaan",
+            "b_wiki": "Pathaan_(film)",
+            "ends_at": "2026-12-31T23:59:59+05:30",
+            "active": 1
+        },
+        {
+            "id": "celebrity-srk-ranveer",
+            "category": "Celebrity",
+            "question": "WHO IS YOUR FAVOURITE?",
+            "title": "SRK vs Ranveer Singh",
+            "subtitle": "Two generations. One spotlight.",
+            "a_name": "Shah Rukh Khan",
+            "a_wiki": "Shah_Rukh_Khan",
+            "b_name": "Ranveer Singh",
+            "b_wiki": "Ranveer_Singh",
+            "ends_at": "2026-12-31T23:59:59+05:30",
+            "active": 1
+        },
+        {
+            "id": "other-khan-ojha",
+            "category": "Other",
+            "question": "WHO IS YOUR FAVOURITE?",
+            "title": "Khan Sir vs Ojha Sir",
+            "subtitle": "Teachers who inspire millions.",
+            "a_name": "Khan Sir",
+            "a_wiki": "Khan_Sir_(teacher)",
+            "b_name": "Avadh Ojha",
+            "b_wiki": "Avadh_Ojha",
+            "ends_at": "2026-12-31T23:59:59+05:30",
+            "active": 1
+        }
+    ],
+    "votes": [
+        {
+            "campaign_id": "cricket-dhoni-virat",
+            "voter_token": "dd5de9274d43c6431211b5de04e93d7c854b02ce2cc35803881d073751e563cd",
+            "side": "a",
+            "created_at": "2026-08-31T06:00:35+00:00"
+        }
+    ],
+    "opinions": []
+}
